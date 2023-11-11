@@ -25,7 +25,7 @@ This script is designed to work in conjunction with a web application. It fetche
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/Kolass2004/Medical-App.git
     ```
 
 2. Ensure your web application includes an HTML file referencing this script.
@@ -54,4 +54,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Note:** Customize the instructions based on the specifics of your project, and include any additional information that might be relevant.
+
