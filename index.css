@@ -1,0 +1,114 @@
+/* Updated CSS (styles.css) */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    font-family: 'Arial', sans-serif;
+   
+    margin: 0;
+    padding: 0;
+}
+
+#app {
+    max-width: 800px;
+    margin: 20px;
+    margin-top: 50px;
+    background-color: #fff;
+    color: black;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    position: relative; /* Added for stacking context */
+}
+
+h2 {
+    color: #333;
+}
+
+#disease-list label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#medications-list {
+    margin-top: 20px;
+}
+
+#medications-list div {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    font-size: 14px;
+}
+
+#medications-list div:last-child {
+    border-bottom: none;
+}
+
+/* Media Queries for Responsive Design */
+@media only screen and (max-width: 600px) {
+    #app {
+        padding: 10px;
+    }
+
+    #disease-list label {
+        font-size: 14px;
+    }
+
+    button {
+        padding: 8px 12px;
+    }
+
+    #medications-list div {
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    #app {
+        max-width: 100%;
+    }
+}
+
+/* Styles for fixed position at the bottom */
+.fixed-bottom {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.8); /* Background with opacity for blur effect */
+    backdrop-filter: blur(10px); /* Apply blur effect */
+    padding: 10px;
+    border-top: 1px solid #ddd;
+}
+
+.fixed-bottom button {                                                       
+    margin-top: 10px;
+}
+/*temp*/
+
+nav p,h1{
+    display:inline;
+    margin: 4px;
+}
+nav{
+    margin: 2.7rem;
+}
+nav p{
+    font-size: 15px;
+}

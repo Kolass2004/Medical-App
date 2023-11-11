@@ -1,0 +1,169 @@
+{
+    "medications": {
+      "fever": [
+        { "name": "Paracetamol", "dosage": "10mg", "frequency": "Morning" },
+        { "name": "Amoxicillin", "dosage": "10mg", "frequency": "Morning" }
+      ],
+      "headache": [
+        { "name": "Ibuprofen", "dosage": "200mg", "frequency": "As needed" },
+        { "name": "Acetaminophen", "dosage": "500mg", "frequency": "As needed" }
+      ],
+      "cold": [
+        { "name": "Antihistamine", "dosage": "10mg", "frequency": "Evening" },
+        { "name": "Decongestant", "dosage": "5mg", "frequency": "Morning" }
+      ],
+      "hypertension": [
+        { "name": "Amlodipine", "dosage": "5mg", "frequency": "Morning" },
+        { "name": "Losartan", "dosage": "50mg", "frequency": "Evening" }
+      ],
+      "diabetes": [
+        { "name": "Metformin", "dosage": "500mg", "frequency": "Morning" },
+        { "name": "Insulin", "dosage": "10 units", "frequency": "Before meals" }
+      ],
+      "allergy": [
+        { "name": "Cetirizine", "dosage": "10mg", "frequency": "Evening" },
+        { "name": "EpiPen", "dosage": "0.3mg", "frequency": "Emergency use" }
+      ],
+      "asthma": [
+        { "name": "Albuterol", "dosage": "90mcg", "frequency": "As needed" },
+        { "name": "Inhaled Corticosteroid", "dosage": "100mcg", "frequency": "Twice daily" }
+      ],
+      "arthritis": [
+        { "name": "Ibuprofen", "dosage": "400mg", "frequency": "As needed" },
+        { "name": "Methotrexate", "dosage": "15mg", "frequency": "Once a week" }
+      ],
+      "gastroenteritis": [
+        { "name": "Oral Rehydration Solution", "dosage": "As directed", "frequency": "As needed" },
+        { "name": "Loperamide", "dosage": "2mg", "frequency": "After each loose stool" }
+      ],
+      "migraine": [
+        { "name": "Sumatriptan", "dosage": "50mg", "frequency": "At the onset of migraine" },
+        { "name": "Propranolol", "dosage": "40mg", "frequency": "Twice daily" }
+      ],
+      "insomnia": [
+        { "name": "Melatonin", "dosage": "3mg", "frequency": "Before bedtime" },
+        { "name": "Diphenhydramine", "dosage": "25mg", "frequency": "As needed" }
+      ],
+      "osteoporosis": [
+        { "name": "Calcium", "dosage": "1000mg", "frequency": "Morning" },
+        { "name": "Vitamin D", "dosage": "400 IU", "frequency": "Morning" }
+      ],
+      "depression": [
+        { "name": "Sertraline", "dosage": "50mg", "frequency": "Morning" },
+        { "name": "Counseling", "dosage": "N/A", "frequency": "As scheduled" }
+      ],
+      "hyperthyroidism": [
+        { "name": "Methimazole", "dosage": "10mg", "frequency": "Morning and Evening" },
+        { "name": "Propranolol", "dosage": "20mg", "frequency": "As needed" }
+      ],
+      "anemia": [
+        { "name": "Iron Supplement", "dosage": "65mg", "frequency": "Morning" },
+        { "name": "Vitamin B12", "dosage": "1000mcg", "frequency": "Monthly" }
+      ],
+      "gout": [
+        { "name": "Colchicine", "dosage": "0.6mg", "frequency": "As needed" },
+        { "name": "Allopurinol", "dosage": "100mg", "frequency": "Morning" }
+      ],
+      "hypothyroidism": [
+        { "name": "Levothyroxine", "dosage": "50mcg", "frequency": "Morning" },
+        { "name": "Liothyronine", "dosage": "25mcg", "frequency": "Morning" }
+      ],
+      "lupus": [
+        { "name": "Hydroxychloroquine", "dosage": "200mg", "frequency": "Twice daily" },
+        { "name": "Corticosteroids", "dosage": "Varies", "frequency": "As prescribed" }
+      ],
+      "malaria": [
+        { "name": "Chloroquine", "dosage": "500mg", "frequency": "Weekly" },
+        { "name": "Mefloquine", "dosage": "250mg", "frequency": "Weekly" }
+      ],
+      "multiple_sclerosis": [
+        { "name": "Interferon Beta-1a", "dosage": "30mcg", "frequency": "Weekly" },
+        { "name": "Glatiramer Acetate", "dosage": "20mg", "frequency": "Daily" }
+      ],
+      "parkinsons_disease": [
+        { "name": "Levodopa/Carbidopa", "dosage": "100/25mg", "frequency": "As prescribed" },
+        { "name": "Ropinirole", "dosage": "1mg", "frequency": "Twice daily" }
+      ],
+      "rheumatoid_arthritis": [
+        { "name": "Methotrexate", "dosage": "20mg", "frequency": "Once a week" },
+        { "name": "Adalimumab", "dosage": "40mg", "frequency": "Every two weeks" }
+      ],
+      "ulcerative_colitis": [
+        { "name": "Mesalamine", "dosage": "1.2g", "frequency": "Twice daily" },
+        { "name": "Prednisone", "dosage": "40mg", "frequency": "As prescribed" }
+      ],
+      "fibromyalgia": [
+        { "name": "Pregabalin", "dosage": "75mg", "frequency": "Twice daily" },
+        { "name": "Duloxetine", "dosage": "30mg", "frequency": "Morning" }
+      ],
+      "chronic_kidney_disease": [
+        { "name": "Epoetin Alfa", "dosage": "50,000 IU", "frequency": "Weekly" },
+        { "name": "Calcitriol", "dosage": "0.25mcg", "frequency": "Three times a week" }
+      ],
+      "cystic_fibrosis": [
+        { "name": "Dornase Alfa", "dosage": "2.5mg", "frequency": "Daily" },
+        { "name": "Ivacaftor", "dosage": "150mg", "frequency": "Morning and Evening" }
+      ],
+      "psoriasis": [
+        { "name": "Topical Corticosteroids", "dosage": "Varies", "frequency": "As prescribed" },
+        { "name": "Methotrexate", "dosage": "15mg", "frequency": "Once a week" }
+      ],
+      "schizophrenia": [
+        { "name": "Olanzapine", "dosage": "10mg", "frequency": "Evening" },
+        { "name": "Aripiprazole", "dosage": "15mg", "frequency": "Morning" }
+      ],
+      "hiv_aids": [
+        { "name": "Tenofovir/Emtricitabine", "dosage": "300/200mg", "frequency": "Daily" },
+        { "name": "Dolutegravir", "dosage": "50mg", "frequency": "Morning" }
+      ],
+      "hypertrophic_cardiomyopathy": [
+        { "name": "Beta-blockers", "dosage": "Varies", "frequency": "As prescribed" },
+        { "name": "Disopyramide", "dosage": "100mg", "frequency": "Three times a day" }
+      ],
+      "endometriosis": [
+        { "name": "Combined Oral Contraceptives", "dosage": "Varies", "frequency": "Daily" },
+        { "name": "GnRH Agonists", "dosage": "Varies", "frequency": "As prescribed" }
+      ],
+      "amyotrophic_lateral_sclerosis": [
+        { "name": "Riluzole", "dosage": "50mg", "frequency": "Twice daily" },
+        { "name": "Edaravone", "dosage": "60mg", "frequency": "As prescribed" }
+      ],
+      "pancreatitis": [
+        { "name": "Pain Management", "dosage": "Varies", "frequency": "As prescribed" },
+        { "name": "Pancreatic Enzymes", "dosage": "Varies", "frequency": "With meals" }
+      ],
+      "alzheimer's_disease": [
+        { "name": "Donepezil", "dosage": "10mg", "frequency": "Evening" },
+        { "name": "Memantine", "dosage": "10mg", "frequency": "Morning" }
+      ],
+      "osteoarthritis": [
+        { "name": "Acetaminophen", "dosage": "500mg", "frequency": "As needed" },
+        { "name": "NSAIDs", "dosage": "Varies", "frequency": "As prescribed" }
+      ],
+      "liver_cirrhosis": [
+        { "name": "Lactulose", "dosage": "Varies", "frequency": "As prescribed" },
+        { "name": "Spironolactone", "dosage": "25mg", "frequency": "Morning" }
+      ],
+      "myasthenia_gravis": [
+        { "name": "Pyridostigmine", "dosage": "60mg", "frequency": "Varies" },
+        { "name": "Immunosuppressants", "dosage": "Varies", "frequency": "As prescribed" }
+      ],
+      "systemic_lupus_erythematosus": [
+        { "name": "Hydroxychloroquine", "dosage": "200mg", "frequency": "Twice daily" },
+        { "name": "Corticosteroids", "dosage": "Varies", "frequency": "As prescribed" }
+      ],
+      "wilson's_disease": [
+        { "name": "Penicillamine", "dosage": "250mg", "frequency": "Four times a day" },
+        { "name": "Zinc Acetate", "dosage": "50mg", "frequency": "Thrice daily" }
+      ],
+      "cerebral_palsy": [
+        { "name": "Baclofen", "dosage": "10mg", "frequency": "Thrice daily" },
+        { "name": "Physical Therapy", "dosage": "N/A", "frequency": "As scheduled" }
+      ],
+      "adhd": [
+        { "name": "Methylphenidate", "dosage": "20mg", "frequency": "Morning" },
+        { "name": "Adderall", "dosage": "10mg", "frequency": "Morning" }
+      ]
+    }
+}
+  
