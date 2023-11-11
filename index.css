@@ -1,4 +1,4 @@
-/* Updated CSS (styles.css) */
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
 *{
     font-family: 'Poppins', sans-serif;
@@ -85,23 +85,22 @@ button:hover {
     }
 }
 
-/* Styles for fixed position at the bottom */
+
 .fixed-bottom {
     position: fixed;
     bottom: 0;
     left: 0;
     width: 100%;
-    background-color: rgba(255, 255, 255, 0.8); /* Background with opacity for blur effect */
-    backdrop-filter: blur(10px); /* Apply blur effect */
+    background-color: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(10px); 
     padding: 10px;
     border-top: 1px solid #ddd;
 }
 
 .fixed-bottom button {                                                       
     margin-top: 10px;
-}
-/*temp*/
 
+}
 nav p,h1{
     display:inline;
     margin: 4px;
