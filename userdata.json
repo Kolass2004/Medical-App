@@ -148,10 +148,6 @@
         { "name": "Pyridostigmine", "dosage": "60mg", "frequency": "Varies" },
         { "name": "Immunosuppressants", "dosage": "Varies", "frequency": "As prescribed" }
       ],
-      "systemic_lupus_erythematosus": [
-        { "name": "Hydroxychloroquine", "dosage": "200mg", "frequency": "Twice daily" },
-        { "name": "Corticosteroids", "dosage": "Varies", "frequency": "As prescribed" }
-      ],
       "wilson's_disease": [
         { "name": "Penicillamine", "dosage": "250mg", "frequency": "Four times a day" },
         { "name": "Zinc Acetate", "dosage": "50mg", "frequency": "Thrice daily" }
