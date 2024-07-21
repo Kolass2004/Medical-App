@@ -7,7 +7,6 @@ This JavaScript file is part of a web application for managing medical informati
 - [Usage](#usage)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Usage
